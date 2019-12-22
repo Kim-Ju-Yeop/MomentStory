@@ -35,3 +35,7 @@
 <img width="140" src="https://user-images.githubusercontent.com/49600974/71320948-52ec6400-24f6-11ea-8c70-49abae9e05d1.png"></img>
 </div>
 
+
+## 제 19회 앱잼(AppJam) - 앱/게임/NUGU 해커톤
+- 1박 2일 동안 진행된 2019 앱잼(AppJam) 행사에서 MomentStory 애플리케이션을 무사히 개발하였습니다.
+
