@@ -21,8 +21,8 @@
 |                      | Android     | Server        | Web | Design  |
 |:--------------------:|:---------------:|:------------------:|:-----:|:----:|
 | Develop People | 김주엽, 이영은 | 김영서       | 최이삭 | 이소은|
-| Develop School | Daegu |        | Daedeok | Daegu|
-| Develop Language | Java, Retrofit2| JavaScript| Python| |
+| Develop School | Daegu | Office       | Daedeok | Daegu|
+| Develop Language | Java, Retrofit2| Node.Js| React.Js| |
 | Develop Tool     | Android Studio  | Visual Studio Code | Visual Studio| Adobe Illustrator, Photoshop, XD|
 
 ## UI/UX
