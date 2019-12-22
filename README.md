@@ -18,11 +18,11 @@
 - Android 플랫폼에서 작성한 글들을 웹 플랫폼에서 확인할 수 있도록 램덤 링크 제공해주는 기능
 
 ## Stack
-|                      | Android     | Server        | Web| Design|
+|                      | Android     | Server        | Web | Design  |
 |:--------------------:|:---------------:|:------------------:|:-----:|:----:|
-| Development People | 김주엽, 이영은 | 김영서       |최이삭|이소은|
-| Development Language | Java, Retrofit2 | Node JS        | React.Js, Java Script | |
-| Development Tool     | Android Studio  | Visual Studio Code |Visual Studio Code|Adobe Illustrator, Photoshop, XD|
+| Develop People | 김주엽, 이영은 | 김영서       |최이삭 |이소은|
+| Develop Language | Java, Retrofit2| Node.Js| React.Js, Java Script| |
+| Develop Tool     | Android Studio  | Visual Studio Code | Visual Studio Code| Adobe Illustrator, Photoshop, XD|
 
 ## UI/UX
 <div>
