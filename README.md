@@ -22,21 +22,29 @@
 |:--------------------:|:---------------:|:------------------:|:-----:|:----:|
 | Develop People | 김주엽, 이영은 | 김영서       | 최이삭 | 이소은|
 | Develop School | Daegu | Office       | Daedeok | Daegu|
-| Develop Language | Java, Retrofit2| Node.Js| React.Js| |
+| Develop Language | Java| Node.Js| React.Js| |
 | Develop Tool     | Android Studio  | Visual Studio Code | Visual Studio Code| Adobe Photoshop, XD|
+
+## Skill
+- <a href="https://github.com/PhilJay/MPAndroidChart">Graph</a>
+- <a href="https://github.com/square/retrofit">Retrofit</a>
+- <a href="https://github.com/square/okhttp/tree/master/okhttp-logging-interceptor">Logging</a>
+- <a href="https://developer.android.com/jetpack/androidx/releases/lifecycle?hl=ko">ViewModel</a>
+- <a href="https://github.com/ParkSangGwon/TedPermission">TedPermission</a>
+
+## Design Pattern
+- MVVM 디자인 패턴을 활용하여 구현했습니다.
 
 ## UI/UX
 <div>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320935-2e908780-24f6-11ea-846d-e82936a57d26.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320937-394b1c80-24f6-11ea-8ae2-c52bd6f6e955.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320961-6dbed880-24f6-11ea-9933-4bce83daa98d.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320942-4831cf00-24f6-11ea-9066-7b4066d82986.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320987-b1b1dd80-24f6-11ea-9677-db939198c56c.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320948-52ec6400-24f6-11ea-8c70-49abae9e05d1.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/71320935-2e908780-24f6-11ea-846d-e82936a57d26.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/71320937-394b1c80-24f6-11ea-8ae2-c52bd6f6e955.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/71320961-6dbed880-24f6-11ea-9933-4bce83daa98d.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/71320942-4831cf00-24f6-11ea-9066-7b4066d82986.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/71320987-b1b1dd80-24f6-11ea-9677-db939198c56c.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/71320948-52ec6400-24f6-11ea-8c70-49abae9e05d1.png"></img>
 </div>
 
-
-## 제 19회 앱잼(AppJam)
-- 1박 2일 동안 진행된 2019 앱잼(AppJam) 행사에서 MomentStory 애플리케이션을 무사히 개발하였습니다.
-- 네이버 블로그 <a href ="http://kjy13299.blog.me/221746628122" target ="_blank" title ="제 19회 앱잼(AppJam) 해커톤">제 19회 앱잼(AppJam) 해커톤 </a>
+## Blog
+- 네이버 블로그 <a href ="http://kjy13299.blog.me/221746628122" target ="_blank" title ="Moment Stroy 그리운 설명보기">Moment Stroy 그리운 설명보기</a>
 
