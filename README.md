@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/49600974/104806008-9ad3dc80-5817-11eb-8c1c-f30025eda4a1.png"></img>
+
 # MomentStory
 📖 부모님과의 소중한 순간을 기록하고 싶을 때 사진과 일기, 스토리북을 웹으로 볼 수 있는 애플리케이션입니다. 
 
